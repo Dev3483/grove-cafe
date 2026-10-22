@@ -135,6 +135,7 @@ export default function HeroVideo() {
         style={{ willChange: "transform" }}
       >
         <source src="/videos/cafe_entering.mp4" type="video/mp4" />
+        <source src="https://raw.githubusercontent.com/Dev3483/grove-cafe/main/public/videos/cafe_entering.mp4" type="video/mp4" />
       </video>
 
       {/* Atmospheric Cinematic Gradients */}

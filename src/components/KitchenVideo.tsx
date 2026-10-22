@@ -269,6 +269,7 @@ export default function KitchenVideo() {
               style={{ filter: "brightness(0.95) contrast(1.02)" }}
             >
               <source src="/videos/kitchen_prep.mp4" type="video/mp4" />
+              <source src="https://raw.githubusercontent.com/Dev3483/grove-cafe/main/public/videos/kitchen_prep.mp4" type="video/mp4" />
             </video>
 
             {/* Subtle Gradient Vignette at Top and Bottom for Text Contrast */}
